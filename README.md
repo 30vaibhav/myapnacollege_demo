@@ -1,4 +1,5 @@
 # myapnacollege_demo
-for git&amp;github basics 
-<br>
+for git&amp;github basics  
 Author:vaibhav
+
+
